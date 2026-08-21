@@ -28,6 +28,9 @@
 | Read VBA macros without Excel? | [VBA Macro Reader](https://github.com/David-CB666/VBA-Macro-Reader-v2.0.0) | Manual → **Automated** |
 | Automate daily construction logs? | [Daily Construction Log](https://github.com/David-CB666/daily-construction-log) | 1h/day → **30s** |
 | OCR scanned engineering docs? | [OCR Skill](https://github.com/David-CB666/ocr-skill) | Manual → **Automated** |
+| Generate electrical test reports? | [Electrical Test Report Gen](https://github.com/David-CB666/electrical-test-report-generator) | 2-4h → **5min** |
+| Need confined space safety plans? | [Confined Space Planner](https://github.com/David-CB666/confined-space-planner) | 4-8h → **15min** |
+| Convert SLD to arrangement drawings? | [SLD to Arrangement](https://github.com/David-CB666/cad-sld-to-arrangement) | 2-3h → **30s** |
 
 ---
 
@@ -87,6 +90,29 @@
       <p>OCR toolkit for engineering documents. Trilingual (Chinese + Portuguese + English). Auto text-layer detection, large PDF handling, keyword location.</p>
       <img src="https://img.shields.io/github/stars/David-CB666/ocr-skill?style=social" alt="Stars">
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚡ <a href="https://github.com/David-CB666/electrical-test-report-generator">Electrical Test Report Gen</a></h3>
+      <p>Automated current & illumination test report generation. Three-phase power calculations, 300+ photo auto-embedding, Word + PDF output.</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/electrical-test-report-generator?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    </td>
+    <td align="center" width="50%">
+      <h3>⛑️ <a href="https://github.com/David-CB666/confined-space-planner">Confined Space Planner</a></h3>
+      <p>Automated confined space construction plan generator. Risk assessment, work permits, emergency procedures — regulatory compliant.</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/confined-space-planner?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" colspan="2">
+      <h3>📐 <a href="https://github.com/David-CB666/cad-sld-to-arrangement">SLD to Arrangement</a></h3>
+      <p>Auto-generate electrical panel arrangement drawings from single-line diagrams. DXF parsing, BOM extraction, 18mm modular layout, 4-view output.</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/cad-sld-to-arrangement?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/ezdxf-3776AB?logo=python&logoColor=white" alt="ezdxf">
     </td>
   </tr>
 </table>
