@@ -1,57 +1,144 @@
-# Hi, I'm Mike 👋
+<h1 align="center">Hi, I'm Mike 👋</h1>
 
-**機電工程項目經理 · 文件自動化工具開發者**
+<p align="center">
+  <strong>MEP Engineering Project Manager</strong><br>
+  Automating construction workflows with Python & Excel · Building tools for real jobsites in Macau
+</p>
 
-專注將工程文件流程自動化——由材料報批、施工記錄，到竣工交付，全部用 Python + Excel + Word 搞掂。
-
----
-
-## 🛠️ 開源工具
-
-| 工具 | 一句話 |
-|:---|:---|
-| [**GanttChart Pro**](https://github.com/David-CB666/gantt-chart-pro) | Excel 甘特圖，唔洗用 MS Project |
-| [**Excel Template Filler**](https://github.com/David-CB666/excel-template-filler) | 雙引擎批量填表，圖片同打印設定完美保留 |
-| [**VBA Macro Reader**](https://github.com/David-CB666/VBA-Macro-Reader-v2.0.0) | 唔裝 Office 都讀到同執行 Excel VBA 宏 |
-| [**Material Submittal Generator**](https://github.com/David-CB666/material-submittal-generator) | 材料報批一鍵生成 + BQ 頁自動合併 |
-
----
-
-## 🏗️ 專業領域
-
-### 工程文件全流程
-
-- **材料報批** — 強弱電報批表批量生成、自動編號、BQ標書頁合併、多輪修訂追蹤
-- **施工文件** — 進度計劃書、每日施工記錄、安全自檢表、施工組織方案
-- **竣工交付** — 竣工手冊（多章節標準結構）、系統操作手冊、材料清單及批准狀態
-- **測試記錄** — 接地電阻測試、絕緣測試、CCTV系統測試、網絡線測試
-
-### 涵蓋系統
-
-強電配電 · 弱電ELV · 閉路電視CCTV · 照明及應急照明 · 防雷接地 · 網絡佈線 · 排水系統 · 空調通風
+<p align="center">
+  <a href="https://github.com/David-CB666?tab=followers">
+    <img src="https://img.shields.io/github/followers/David-CB666?label=Followers&style=social" alt="Followers">
+  </a>
+  <a href="https://github.com/David-CB666?tab=stars">
+    <img src="https://img.shields.io/github/stars/David-CB666?label=Total%20Stars&style=social" alt="Total Stars">
+  </a>
+  <a href="mailto:david_1999cn@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-david__1999cn%40hotmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🔧 定制開發能力
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=David-CB666&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-CB666&layout=compact&theme=default&hide_border=true" width="48%" alt="Top Languages">
+</p>
 
-除咗上面嘅開源工具，仲可以根據實際工作需要，提供：
-
-- **Excel 自動化** — 自訂 VBA 宏、批量數據處理、模板套表、自動格式化
-- **Word 文檔生成** — python-docx 全自動生成、專業排版、圖片表格混合排版
-- **Python 自運行腳本** — 定時任務、數據擷取、PDF合併拆分、文件格式轉換
-- **編號體系搭建** — 按項目需求定制報批編號規則 (EL/ELV/RFI)
-- **BQ 數據處理** — 細數表自動匹配、工程量統計、結算輔助
-
-> 多年公共工程及大型基建項目實戰經驗，熟悉嚴謹的文檔審批流程同規範要求。
-
----
-
-## 📍
-
-澳門 · 粵語 / 普通話 / English
+<!-- Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=David-CB666&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophy">
+</p>
 
 ---
 
-_如果上面嘅工具或者經驗，同你手頭做緊嘅工程項目有啱用嘅地方，歡迎交流。_
+## 🛠️ Open Source Tools
 
-<sub>david_1999cn@hotmail.com</sub>
+> Each tool was born from a real construction jobsite problem — not a tutorial.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📊 <a href="https://github.com/David-CB666/gantt-chart-pro">GanttChart Pro</a></h3>
+      <p>Professional Gantt charts in Excel — no MS Project required. Dual calendar modes, WBS grouping, milestone markers, dependency arrows.</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/gantt-chart-pro?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    </td>
+    <td align="center" width="50%">
+      <h3>📋 <a href="https://github.com/David-CB666/excel-template-filler">Excel Template Filler</a></h3>
+      <p>Dual-engine batch template filling. Preserves images, print settings, and formatting — things openpyxl alone can't do.</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/excel-template-filler?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📝 <a href="https://github.com/David-CB666/material-submittal-generator">Material Submittal Generator</a></h3>
+      <p>One-click batch generation of material submittal sheets + automatic BQ page merging. Battle-tested in MEP construction.</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/material-submittal-generator?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    </td>
+    <td align="center" width="50%">
+      <h3>🔧 <a href="https://github.com/David-CB666/VBA-Macro-Reader-v2.0.0">VBA Macro Reader</a></h3>
+      <p>Read, modify & execute VBA macros from .xlsm/.xlam files. Dual-mode: oletools (cross-platform read) + win32com (full control).</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/VBA-Macro-Reader-v2.0.0?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏗️ Expertise
+
+### Construction Document Workflow
+
+| Stage | What I Automate |
+|-------|----------------|
+| **Material Submittal** | Batch submittal sheet generation, auto-numbering, BQ page merging, revision tracking |
+| **Construction Docs** | Progress schedules, daily site records, safety inspection forms, method statements |
+| **Handover & O&M** | O&M manuals (multi-section standard structure), system operation guides, material schedules |
+| **Testing & Commissioning** | Earth resistance tests, insulation tests, CCTV system tests, network cable tests |
+
+### Systems Covered
+
+`HV Power Distribution` · `ELV/Extra-Low Voltage` · `CCTV` · `Lighting & Emergency Lighting` · `Lightning Protection & Earthing` · `Network Cabling` · `Drainage` · `HVAC`
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-00A000?logo=python&logoColor=white)
+![oletools](https://img.shields.io/badge/oletools-3776AB?logo=python&logoColor=white)
+![win32com](https://img.shields.io/badge/win32com-0078D4?logo=windows&logoColor=white)
+
+---
+
+## 💡 Custom Development
+
+Beyond the open-source tools above, I also build:
+
+- **Excel Automation** — Custom VBA macros, batch data processing, template filling, auto-formatting
+- **Word Document Generation** — python-docx full-auto generation, professional layout, mixed image/table formatting
+- **Python Standalone Scripts** — Scheduled tasks, data extraction, PDF merge/split, file format conversion
+- **Numbering System Design** — Project-specific submittal numbering rules (EL/ELV/RFI)
+- **BQ Data Processing** — Bill of quantities auto-matching, quantity takeoff, settlement assistance
+
+> Years of hands-on experience in public works and large-scale infrastructure projects, familiar with rigorous document approval workflows and compliance standards.
+
+---
+
+## 📍 Location & Languages
+
+| | |
+|---|---|
+| **Location** | Macau SAR, China |
+| **Languages** | 粵語 · 普通话 · English |
+
+---
+
+## 📫 Let's Connect
+
+<a href="mailto:david_1999cn@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-david__1999cn%40hotmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/David-CB666">
+  <img src="https://img.shields.io/badge/GitHub-David--CB666-181717?logo=github&logoColor=white" alt="GitHub">
+</a>
+
+---
+
+<div align="center">
+
+<sub>If any of the tools or experience above relate to your engineering projects, feel free to reach out. Always happy to connect.</sub>
+
+<sub>如果上面的工具或經驗，同你手頭做緊的工程項目有啱用嘅地方，歡迎交流。</sub>
+
+</div>
+
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=David-CB666&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Visitor Count">
+</p>
