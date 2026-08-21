@@ -133,6 +133,69 @@ Beyond the open-source tools above, I also build:
 
 ---
 
+## 💰 Support & Services
+
+### Sponsor This Project
+
+If these tools saved you time, consider becoming a sponsor. Your support helps me maintain existing tools and build new ones.
+
+<p align="center">
+  <a href="https://github.com/sponsors/David-CB666">
+    <img src="https://img.shields.io/badge/Sponsor-❤-EA4AAA?logo=GitHub+Sponsors&logoColor=white" alt="GitHub Sponsors">
+  </a>
+</p>
+
+**Sponsor Tiers:**
+
+| Tier | Price | Benefits |
+|------|-------|---------|
+| ☕ Coffee | $5/month | Name in sponsors list, early access to new tools |
+| 🛠️ Supporter | $15/month | Priority issue response (48h), monthly dev update |
+| 🏢 Company | $50/month | Logo on profile + repos, feature request priority, 1h/month consultation |
+
+### Consulting & Custom Development
+
+<p align="center">
+  <a href="https://github.com/David-CB666/consulting-services">
+    <img src="https://img.shields.io/badge/Hire%20Me-Consulting%20Services-blue?logo=GitHub&logoColor=white" alt="Consulting Services">
+  </a>
+</p>
+
+| Service | Description | Starting From |
+|---------|-------------|---------------|
+| **Custom Tool Development** | Build a custom automation tool for your specific workflow | $500 |
+| **Workflow Audit** | Analyze your current document processes, identify automation opportunities | $200 |
+| **Implementation Package** | Deploy + configure tools + train your team (remote) | $800 |
+| **O&M Manual Generator** | Custom O&M manual template + auto-generation pipeline | $1,200 |
+| **Full MEP Automation Suite** | Complete document automation: submittals + daily logs + handover + BQ | $3,000+ |
+
+> All services include: source code, documentation, 30-day support, and remote training session.
+
+### Online Course (Coming Soon)
+
+**"Python for MEP Engineers: Automate Construction Documents"**
+
+A hands-on course teaching construction engineers how to use Python to automate their daily document workflows — from material submittals to Gantt charts to OCR.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Course Status">
+  <img src="https://img.shields.io/badge/Platform-Udemy%20%2F%20知识星球-purple" alt="Platform">
+</p>
+
+**Planned curriculum:**
+1. Python basics for engineers (no CS background needed)
+2. Excel automation with openpyxl (batch processing, template filling)
+3. Gantt chart generation (replace MS Project)
+4. Material submittal automation
+5. Daily construction record automation
+6. OCR for scanned engineering documents
+7. VBA macro reading & execution
+8. Building your own automation toolkit
+
+> Follow on GitHub to get notified when the course launches.
+
+---
+
 ## 📫 Let's Connect
 
 <a href="mailto:david_1999cn@hotmail.com">
@@ -140,6 +203,9 @@ Beyond the open-source tools above, I also build:
 </a>
 <a href="https://github.com/David-CB666">
   <img src="https://img.shields.io/badge/GitHub-David--CB666-181717?logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://github.com/sponsors/David-CB666">
+  <img src="https://img.shields.io/badge/Sponsor-❤-EA4AAA?logo=GitHub+Sponsors&logoColor=white" alt="Sponsor">
 </a>
 
 ---
