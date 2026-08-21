@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong>MEP Engineering Project Manager</strong><br>
-  Automating construction workflows with Python & Excel · Building tools for real construction jobsites
+  Replaced $630 MS Project licenses and hours of manual paperwork with Python scripts that run in 5 seconds.<br>
+  <em>Each tool was born from a real construction jobsite problem — not a tutorial.</em>
 </p>
 
 <p align="center">
@@ -16,6 +17,17 @@
     <img src="https://img.shields.io/badge/Email-david__1999cn%40hotmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+### 🎯 Start Here — Pick a Tool
+
+| Your Problem | Tool | Time Saved |
+|-------------|------|-----------|
+| Need a Gantt chart? | [GanttChart Pro](https://github.com/David-CB666/gantt-chart-pro) | 2-4h → **5s** |
+| Batch-fill Excel templates? | [Excel Template Filler](https://github.com/David-CB666/excel-template-filler) | 2-4h → **5min** |
+| Generate material submittals? | [Material Submittal Generator](https://github.com/David-CB666/material-submittal-generator) | 8-12h → **5min** |
+| Read VBA macros without Excel? | [VBA Macro Reader](https://github.com/David-CB666/VBA-Macro-Reader-v2.0.0) | Manual → **Automated** |
+| Automate daily construction logs? | [Daily Construction Log](https://github.com/David-CB666/daily-construction-log) | 1h/day → **30s** |
+| OCR scanned engineering docs? | [OCR Skill](https://github.com/David-CB666/ocr-skill) | Manual → **Automated** |
 
 ---
 
@@ -32,9 +44,7 @@
 
 ---
 
-## 🛠️ Open Source Tools
-
-> Each tool was born from a real construction jobsite problem — not a tutorial.
+## 🛠️ Open Source Tools — Full Details
 
 <table>
   <tr>
