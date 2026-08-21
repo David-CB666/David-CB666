@@ -73,9 +73,10 @@
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
     </td>
     <td align="center" width="50%">
-      <h3>🚧 More Tools Coming</h3>
-      <p>Building more construction automation tools from real jobsite experience. Stay tuned!</p>
-      <img src="https://img.shields.io/badge/Stay-Tuned-blue" alt="Coming Soon">
+      <h3>🔍 <a href="https://github.com/David-CB666/ocr-skill">OCR Skill</a></h3>
+      <p>OCR toolkit for engineering documents. Trilingual (Chinese + Portuguese + English). Auto text-layer detection, large PDF handling, keyword location.</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/ocr-skill?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
     </td>
   </tr>
 </table>
