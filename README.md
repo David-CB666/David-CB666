@@ -65,6 +65,19 @@
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📅 <a href="https://github.com/David-CB666/daily-construction-log">Daily Construction Log</a></h3>
+      <p>Automated daily construction record generation. Copy-yesterday strategy, weather/tide extraction, auto photo embedding, PDF merging.</p>
+      <img src="https://img.shields.io/github/stars/David-CB666/daily-construction-log?style=social" alt="Stars">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+    </td>
+    <td align="center" width="50%">
+      <h3>🚧 More Tools Coming</h3>
+      <p>Building more construction automation tools from real jobsite experience. Stay tuned!</p>
+      <img src="https://img.shields.io/badge/Stay-Tuned-blue" alt="Coming Soon">
+    </td>
+  </tr>
 </table>
 
 ---
