@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Mike 👋</h1>
+﻿<h1 align="center">Hi, I'm Mike 👋</h1>
 
 <p align="center">
   <strong>MEP Engineering Project Manager</strong><br>
-  Automating construction workflows with Python & Excel · Building tools for real jobsites in Macau
+  Automating construction workflows with Python & Excel · Building tools for real construction jobsites
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ Beyond the open-source tools above, I also build:
 
 | | |
 |---|---|
-| **Location** | Macau SAR, China |
+| **Location** | China |
 | **Languages** | 粵語 · 普通话 · English |
 
 ---
