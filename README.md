@@ -40,9 +40,11 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-CB666&layout=compact&theme=default&hide_border=true" width="48%" alt="Top Languages">
 </p>
 
-<!-- Streak Stats -->
+<!-- Activity Badges -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=David-CB666&theme=default&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://img.shields.io/github/commit-activity/m/David-CB666?label=Commits%2Fmonth&style=flat&color=blue" alt="Commit Activity">
+  <img src="https://img.shields.io/github/repos/David-CB666?label=Public%20Repos&style=flat&color=green" alt="Public Repos">
+  <img src="https://img.shields.io/github/created-at/David-CB666?label=Member%20Since&style=flat&color=orange" alt="Member Since">
 </p>
 
 ---
