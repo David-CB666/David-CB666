@@ -36,13 +36,13 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-CB666&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-CB666&layout=compact&theme=default&hide_border=true" width="48%" alt="Top Languages">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-CB666&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-CB666&layout=compact&theme=default&hide_border=true" width="48%" alt="Top Languages">
 </p>
 
-<!-- Trophy -->
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=David-CB666&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophy">
+  <img src="https://streak-stats.demolab.com/?user=David-CB666&theme=default&hide_border=true" alt="GitHub Streak Stats">
 </p>
 
 ---
