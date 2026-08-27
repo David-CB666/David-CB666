@@ -13,7 +13,7 @@
   <a href="https://github.com/David-CB666?tab=stars">
     <img src="https://img.shields.io/github/stars/David-CB666?label=Total%20Stars&style=social" alt="Total Stars">
   </a>
-  <a href="mailto:david_1999cn@hotmail.com">
+  <a href="mailto:David_1999CN@hotmail.com">
     <img src="https://img.shields.io/badge/Email-david__1999cn%40hotmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -166,8 +166,32 @@ Beyond the open-source tools above, I also build:
 
 | | |
 |---|---|
-| **Location** | China |
+| **Location** | Macau |
 | **Languages** | 粵語 · 普通话 · English |
+
+---
+
+## 📖 AI Agent Cultivation Field Manual v2.0
+
+Don't just **use** AI. **Cultivate** it. A complete handbook for training your AI assistant into a domain engineering expert.
+
+| Edition | Price | What's Included |
+|---------|------|-----------------|
+| **Free** | ¥0 / $0 | Chapter 1 (8-Level Self-Assessment) + 1 skill pack |
+| **Starter** | ¥9.9 / $1.99 | 3 essential chapters + 3 skill packs |
+| **Complete** | ¥49 / $6.99 | Full manual (13 chapters + 8 appendices) + 7 skill packs |
+| **Professional** | ¥199 / $29 | Everything + 1-on-1 consultation + custom skill pack |
+
+<p align="center">
+  <a href="https://david-cb666.github.io/ai-agent-manual/">
+    <img src="https://img.shields.io/badge/📖-View%20Landing%20Page-blue" alt="Manual Landing Page">
+  </a>
+  <a href="mailto:David_1999CN@hotmail.com?subject=AI Agent Manual Inquiry">
+    <img src="https://img.shields.io/badge/📧-Email%20to%20Order-D14836" alt="Email to Order">
+  </a>
+</p>
+
+> Prices are public. Contact via email to purchase — payment details discussed privately.
 
 ---
 
@@ -187,56 +211,35 @@ If these tools saved you time, consider becoming a sponsor. Your support helps m
 
 | Tier | Price | Benefits |
 |------|-------|---------|
-| ☕ Coffee | $5/month | Name in sponsors list, early access to new tools |
-| 🛠️ Supporter | $15/month | Priority issue response (48h), monthly dev update |
-| 🏢 Company | $50/month | Logo on profile + repos, feature request priority, 1h/month consultation |
+| ☕ Coffee | $3/month | Name in sponsors list, early access to new tools |
+| 🛠️ Supporter | $9/month | Priority issue response (48h), monthly dev update |
+| 🏢 Company | $29/month | Logo on profile + repos, feature request priority, 30min/month consultation |
 
 ### Consulting & Custom Development
 
+Services aligned with the AI Agent Cultivation Field Manual — affordable, practical, and matched to your needs.
+
 <p align="center">
-  <a href="https://github.com/David-CB666/consulting-services">
-    <img src="https://img.shields.io/badge/Hire%20Me-Consulting%20Services-blue?logo=GitHub&logoColor=white" alt="Consulting Services">
+  <a href="mailto:David_1999CN@hotmail.com?subject=Consulting Inquiry">
+    <img src="https://img.shields.io/badge/📧-Email%20to%20Inquire-blue" alt="Email to Inquire">
   </a>
 </p>
 
 | Service | Description | Starting From |
 |---------|-------------|---------------|
-| **Custom Tool Development** | Build a custom automation tool for your specific workflow | $500 |
-| **Workflow Audit** | Analyze your current document processes, identify automation opportunities | $200 |
-| **Implementation Package** | Deploy + configure tools + train your team (remote) | $800 |
-| **O&M Manual Generator** | Custom O&M manual template + auto-generation pipeline | $1,200 |
-| **Full MEP Automation Suite** | Complete document automation: submittals + daily logs + handover + BQ | $3,000+ |
+| **AI Cultivation Review** | Assess your AI setup, identify your Level (1-8), suggest next steps | ¥49 / $7 |
+| **Custom Skill Pack** | Build one custom skill pack for your specific workflow | ¥149 / $19 |
+| **Team Setup Package** | Deploy + configure tools + train your team (remote, 2h session) | ¥199 / $29 |
+| **O&M Manual Generator** | Custom O&M manual template + auto-generation pipeline | ¥299 / $49 |
+| **Full MEP Automation Suite** | Complete AI agent + skill packs + workflow automation | ¥499 / $69 |
 
-> All services include: source code, documentation, 30-day support, and remote training session.
-
-### Online Course (Coming Soon)
-
-**"Python for MEP Engineers: Automate Construction Documents"**
-
-A hands-on course teaching construction engineers how to use Python to automate their daily document workflows — from material submittals to Gantt charts to OCR.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange" alt="Course Status">
-  <img src="https://img.shields.io/badge/Platform-Udemy%20%2F%20知识星球-purple" alt="Platform">
-</p>
-
-**Planned curriculum:**
-1. Python basics for engineers (no CS background needed)
-2. Excel automation with openpyxl (batch processing, template filling)
-3. Gantt chart generation (replace MS Project)
-4. Material submittal automation
-5. Daily construction record automation
-6. OCR for scanned engineering documents
-7. VBA macro reading & execution
-8. Building your own automation toolkit
-
-> Follow on GitHub to get notified when the course launches.
+> All services include: source code, documentation, and 30-day email support. Prices are starting points — final quote depends on scope.
 
 ---
 
 ## 📫 Let's Connect
 
-<a href="mailto:david_1999cn@hotmail.com">
+<a href="mailto:David_1999CN@hotmail.com">
   <img src="https://img.shields.io/badge/Email-david__1999cn%40hotmail.com-D14836?logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://github.com/David-CB666">
