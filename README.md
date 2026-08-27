@@ -111,7 +111,7 @@
   <tr>
     <td align="center" width="50%" colspan="2">
       <h3>📐 <a href="https://github.com/David-CB666/cad-sld-to-arrangement">SLD to Arrangement</a></h3>
-      <p>Auto-generate electrical panel arrangement drawings from single-line diagrams. DXF parsing, BOM extraction, 18mm modular layout, 4-view output.</p>
+      <p>Agent reads CAD content, identifies components, calculates power, batch replaces text/numbers, modifies line types & blocks. High control rate · high stability · high recognition. DXF parsing, BOM extraction, 18mm modular layout, 4-view output.</p>
       <img src="https://img.shields.io/github/stars/David-CB666/cad-sld-to-arrangement?style=social" alt="Stars">
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/ezdxf-3776AB?logo=python&logoColor=white" alt="ezdxf">
