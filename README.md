@@ -1,58 +1,77 @@
-﻿# 👋 Hi, I'm Mike (David-CB666)
+# 👋 Hi, I'm Mike (David-CB666)
 
 <div align="center">
 
-**MEP Engineering Project Manager × AI Automation Builder**
+**大灣區工程自動化 | GBA Engineering Automation**
 
-I build practical tools for real construction jobsites — automating the boring stuff so engineers can focus on engineering.
+MEP Engineering Project Manager × AI Automation Builder
+Building practical tools for real construction jobsites — automating the boring stuff so engineers can focus on engineering.
 
-🇲🇴 Macau · 🌏 Greater Bay Area · 🐍 Python · 📊 Excel · 🏗️ Construction
+🇲🇴 Macau · 🌏 Greater Bay Area · 🇭🇰 Hong Kong · 🐍 Python · 📊 Excel · 🏗️ Construction
 
 </div>
 
 ---
 
-## 🛠️ What I Build
+## 🎯 關於我 / About
 
-All my projects come from real jobsite pain points. No toy projects — every tool has been battle-tested on real construction projects across the Greater Bay Area.
+做工程 7 年，由前線地盤到項目管理，深深體會到工程行業數碼化嘅落後。
+大灣區基建如火如荼，但好多公司仲係用人手做重複性文書工作。
 
-### 🏗️ Engineering Document Automation
+我相信：**工程人嘅時間，應該用喺解決工程問題，唔係用喺對齊同排版。**
 
-| Project | What it does | Tech |
-|:---|:---|:---|
-| [**material-approval-pipeline**](https://github.com/David-CB666/material-approval-pipeline) | Full pipeline for material submittal document packages. 414-brand database, BQ page merge, 9 battle-tested scripts. | Python · win32com · PyMuPDF |
-| [**electrical-panel-label-plates**](https://github.com/David-CB666/electrical-panel-label-plates) | CAD SLD → Word label plates → CAD vector fabrication drawing. The 17:25 rule for RCD pole counting. | Python · ezdxf · python-docx |
-| [**python-docx-photo-grid**](https://github.com/David-CB666/python-docx-photo-grid) | Adaptive 2-column photo grid for Word reports. Dynamic scaling — no more wasted space from fixed 2×2 layouts. | Python · python-docx · Pillow |
-
-### ⚙️ Workflow Tools
-
-| Project | What it does | Tech |
-|:---|:---|:---|
-| [**skill-router**](https://github.com/David-CB666/skill-router) | Task-to-skill routing system for AI agents. Classify first, then pick the right tool. | Markdown · Decision tree |
-| [**officecli-workflow**](https://github.com/David-CB666/officecli-workflow) | Battle-tested workflow for batch modifying Office documents with OfficeCLI. | PowerShell · OfficeCLI |
+呢度嘅每一個工具，都係從真實地盤痛點出發，喺多個 GBA 工程項目中實戰驗證過。
+唔係玩具項目 — 係每日都用緊嘅生產力工具。
 
 ---
 
-## 🎯 My Focus
+## 🛠️ 開源項目 / Open Source Projects
 
-- **Construction automation** — taking the repetitive work out of MEP engineering
-- **Document generation** — Word, Excel, CAD, PDF — all connected
-- **AI agent skills** — building specialized skills that solve specific problems well
-- **Macau engineering** — local knowledge built into every tool
+### 🏗️ 工程文檔自動化
+
+| 項目 | 做乜 | 技術 | ⭐ |
+|:---|:---|:---|:---:|
+| [**material-approval-pipeline**](https://github.com/David-CB666/material-approval-pipeline) | 材料報批全自動管線。品牌推薦 + BQ 合併 + 批次生成。 | Python · PyMuPDF · win32com | 🏆 |
+| [**electrical-panel-label-plates**](https://github.com/David-CB666/electrical-panel-label-plates) | 電箱標籤牌全自動：CAD 單線圖 → Word 標籤 → DXF 加工圖。17:25 設計原則。 | Python · ezdxf · python-docx | 🥈 |
+| [**python-docx-photo-grid**](https://github.com/David-CB666/python-docx-photo-grid) | Word 報告自適應相片排版。動態縮放，告別固定 2×2 浪費空間。 | Python · python-docx · Pillow | 🥉 |
+
+### ⚙️ 工作流工具
+
+| 項目 | 做乜 | 技術 |
+|:---|:---|:---|
+| [**skill-router**](https://github.com/David-CB666/skill-router) | AI Agent 任務→技能路由系統。先分類，再選工具。 | Markdown · Decision Tree |
+| [**officecli-workflow**](https://github.com/David-CB666/officecli-workflow) | Office 文件批次修改工作流。幾十份 Word/Excel/PPT 一次過搞掂。 | PowerShell · OfficeCLI |
 
 ---
 
-## 📫 Let's Connect
+## 🎯 專注領域 / Focus Areas
 
-Working on something similar? Have a jobsite pain point that should be automated?
-Feel free to reach out — I'm always happy to talk shop with fellow engineers.
+- **🏗️ Construction Automation** — 將 MEP 工程嘅重複工作自動化
+- **📄 Document Generation** — Word / Excel / CAD / PDF 全鏈路打通
+- **🤖 AI Agent Skills** — 構建解決特定問題嘅專用技能
+- **🌏 Greater Bay Area** — 大灣區工程經驗內化到每一個工具
+- **💡 From Jobsite, For Jobsite** — 由地盤痛點驅動，唔係為自動化而自動化
+
+---
+
+## 📫 聯絡我 / Contact
+
+做緊類似嘅嘢？有地盤痛點想自動化？
+歡迎聯絡，最鍾意同同行傾計。
 
 **📧 Email:** david_1999cn@hotmail.com
+
+**💬 傾吓計：**
+- 工程自動化方案諮詢
+- 企業定製開發
+- 內部培訓工作坊
+- 開源項目合作
 
 ---
 
 <div align="center">
 
 *Building tools for real jobsites. One script at a time.*
+*大灣區工程自動化 — 從地盤嚟，為地盤做。*
 
 </div>
