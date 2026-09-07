@@ -6,7 +6,7 @@
 
 I build practical tools for real construction jobsites — automating the boring stuff so engineers can focus on engineering.
 
-🇲🇴 Macau SAR, China · 🐍 Python · 📊 Excel · 🏗️ Construction
+🇲🇴 Macau · 🌏 Greater Bay Area · 🐍 Python · 📊 Excel · 🏗️ Construction
 
 </div>
 
@@ -14,7 +14,7 @@ I build practical tools for real construction jobsites — automating the boring
 
 ## 🛠️ What I Build
 
-All my projects come from real jobsite pain points. No toy projects — every tool has been battle-tested on actual construction projects in Macau.
+All my projects come from real jobsite pain points. No toy projects — every tool has been battle-tested on real construction projects across the Greater Bay Area.
 
 ### 🏗️ Engineering Document Automation
 
