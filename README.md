@@ -15,7 +15,7 @@ Building practical tools for real construction jobsites — automating the borin
 
 ## 🎯 關於我 / About
 
-做工程 7 年，由前線地盤到項目管理，深深體會到工程行業數碼化嘅落後。
+從事工程多年，由前線地盤到項目管理，深深體會到工程行業數碼化嘅落後。
 大灣區基建如火如荼，但好多公司仲係用人手做重複性文書工作。
 
 我相信：**工程人嘅時間，應該用喺解決工程問題，唔係用喺對齊同排版。**
