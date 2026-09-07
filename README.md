@@ -47,6 +47,8 @@ All my projects come from real jobsite pain points. No toy projects — every to
 Working on something similar? Have a jobsite pain point that should be automated?
 Feel free to reach out — I'm always happy to talk shop with fellow engineers.
 
+**📧 Email:** david_1999cn@hotmail.com
+
 ---
 
 <div align="center">
