@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mike (David-CB666)
+﻿# 👋 Hi, I'm Mike (David-CB666)
 
 <div align="center">
 
@@ -20,7 +20,7 @@ All my projects come from real jobsite pain points. No toy projects — every to
 
 | Project | What it does | Tech |
 |:---|:---|:---|
-| [**macau-material-approval**](https://github.com/David-CB666/macau-material-approval) | Full pipeline for material submittal document packages. 414-brand database, BQ page merge, 9 battle-tested scripts. | Python · win32com · PyMuPDF |
+| [**material-approval-pipeline**](https://github.com/David-CB666/material-approval-pipeline) | Full pipeline for material submittal document packages. 414-brand database, BQ page merge, 9 battle-tested scripts. | Python · win32com · PyMuPDF |
 | [**electrical-panel-label-plates**](https://github.com/David-CB666/electrical-panel-label-plates) | CAD SLD → Word label plates → CAD vector fabrication drawing. The 17:25 rule for RCD pole counting. | Python · ezdxf · python-docx |
 | [**python-docx-photo-grid**](https://github.com/David-CB666/python-docx-photo-grid) | Adaptive 2-column photo grid for Word reports. Dynamic scaling — no more wasted space from fixed 2×2 layouts. | Python · python-docx · Pillow |
 
